@@ -1,0 +1,192 @@
+{
+  "movies": [
+    {
+      "id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "rated": "PG",
+      "runtime": 124,
+      "genres": ["Adventure", "Thriller", "Horror"],
+      "release_date": "June 20, 1975",
+      "plot_summary": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "tagline": "You'll never go in the water again.",
+      "director": "Steven Spielberg",
+      "writers": [
+        {
+          "name": "Peter Benchley",
+          "role": "screenplay, novel"
+        },
+        {
+          "name": "Carl Gottlieb",
+          "role": "screenplay"
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Roy Scheider",
+          "character": "Chief Martin Brody"
+        },
+        {
+          "actor": "Robert Shaw",
+          "character": "Quint"
+        },
+        {
+          "actor": "Richard Dreyfuss",
+          "character": "Matt Hooper"
+        },
+        {
+          "actor": "Lorraine Gary",
+          "character": "Ellen Brody"
+        },
+        {
+          "actor": "Murray Hamilton",
+          "character": "Mayor Larry Vaughn"
+        }
+      ],
+      "production": {
+        "companies": ["Universal Pictures", "Zanuck/Brown Productions"],
+        "country": "USA",
+        "language": "English",
+        "budget": 7000000,
+        "box_office": 470700000
+      },
+      "crew": {
+        "producer": "David Brown, Richard D. Zanuck",
+        "cinematographer": "Bill Butler",
+        "editor": "Verna Fields",
+        "composer": "John Williams"
+      },
+      "ratings": {
+        "imdb": 8.1,
+        "metascore": 87,
+        "rotten_tomatoes": 97
+      },
+      "media": {
+        "poster": "https://example.com/jaws_poster.jpg",
+        "trailer": "https://example.com/jaws_trailer.mp4",
+        "images": [
+          "https://example.com/jaws_still1.jpg",
+          "https://example.com/jaws_still2.jpg",
+          "https://example.com/jaws_still3.jpg"
+        ]
+      },
+      "awards": {
+        "oscar_wins": 3,
+        "oscar_nominations": 1,
+        "total_wins": 11,
+        "total_nominations": 4
+      },
+      "trivia": [
+        "The mechanical shark used for filming was nicknamed 'Bruce' after Steven Spielberg's lawyer.",
+        "The famous line \"You're gonna need a bigger boat\" was improvised by Roy Scheider.",
+        "The film was shot on location at Martha's Vineyard, Massachusetts."
+      ],
+      "quotes": [
+        {
+          "character": "Quint",
+          "quote": "You know the thing about a shark, he's got lifeless eyes, black eyes, like a doll's eyes."
+        },
+        {
+          "character": "Chief Brody",
+          "quote": "You're gonna need a bigger boat."
+        }
+      ],
+      "related_movies": ["tt0079550", "tt0085750", "tt0093300"]
+    },
+    {
+      "id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "rated": "PG-13",
+      "runtime": 194,
+      "genres": ["Drama", "Romance", "Disaster"],
+      "release_date": "December 19, 1997",
+      "plot_summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "tagline": "Nothing on Earth could come between them.",
+      "director": "James Cameron",
+      "writers": [
+        {
+          "name": "James Cameron",
+          "role": "screenplay, story"
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Jack Dawson"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Rose DeWitt Bukater"
+        },
+        {
+          "actor": "Billy Zane",
+          "character": "Cal Hockley"
+        },
+        {
+          "actor": "Kathy Bates",
+          "character": "Molly Brown"
+        },
+        {
+          "actor": "Frances Fisher",
+          "character": "Ruth DeWitt Bukater"
+        }
+      ],
+      "production": {
+        "companies": ["Paramount Pictures", "20th Century Fox", "Lightstorm Entertainment"],
+        "country": "USA",
+        "language": "English",
+        "budget": 200000000,
+        "box_office": 2187463944
+      },
+      "crew": {
+        "producer": "James Cameron, Jon Landau",
+        "cinematographer": "Russell Carpenter",
+        "editor": "Conrad Buff IV, James Cameron, Richard A. Harris",
+        "composer": "James Horner"
+      },
+      "ratings": {
+        "imdb": 7.9,
+        "metascore": 75,
+        "rotten_tomatoes": 87
+      },
+      "media": {
+        "poster": "https://example.com/titanic_poster.jpg",
+        "trailer": "https://example.com/titanic_trailer.mp4",
+        "images": [
+          "https://example.com/titanic_still1.jpg",
+          "https://example.com/titanic_still2.jpg",
+          "https://example.com/titanic_still3.jpg"
+        ]
+      },
+      "awards": {
+        "oscar_wins": 11,
+        "oscar_nominations": 14,
+        "total_wins": 124,
+        "total_nominations": 79
+      },
+      "trivia": [
+        "At the time of its release, Titanic was the most expensive film ever made, with a budget of $200 million.",
+        "The film was the highest-grossing film of all time until Avatar (also directed by James Cameron) surpassed it in 2010.",
+        "Many of the scenes were shot in a 17-million-gallon tank built specifically for the film."
+      ],
+      "quotes": [
+        {
+          "character": "Jack",
+          "quote": "I'm the king of the world!"
+        },
+        {
+          "character": "Rose",
+          "quote": "I'll never let go, Jack. I'll never let go."
+        }
+      ],
+      "historical_accuracy": {
+        "ship_details": "very accurate",
+        "characters": "fictional protagonists with some real historical figures",
+        "events": "mostly accurate timeline of sinking",
+        "notes": "Many props and set pieces were exact replicas made from the original ship's plans."
+      },
+      "related_movies": ["tt0804452", "tt0051994", "tt0266543"]
+    }
+  ]
+}
